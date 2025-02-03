@@ -43,5 +43,3 @@ Syed Ali Ashar - BS Artificial Intelligence, UMT
 1. **Badges**: Badges serve as quick visual references for software versions or project status. They are added at the top for quick visibility.
 2. **Tables**: The contents section uses a table format to neatly list and describe the files contained in the repository.
 3. **Section Dividers**: Horizontal lines (---) are used to clearly separate different sections, helping to organize the content better.
-
-These additions make your README file more visually appealing and easier to navigate. If you'd like to see more formatting options or specific elements added, let me know!
